@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/branchLoop/branchLoop.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/branchLoop/branchLoop.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/branchLoop/branchLoop.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/branchLoop/branchLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/branchLoop/branchLoop.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/branchLoop/branchLoop.csproj",
         "projectName": "branchLoop",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/branchLoop/branchLoop.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/branchLoop/branchLoop.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/branchLoop/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/branchLoop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"
