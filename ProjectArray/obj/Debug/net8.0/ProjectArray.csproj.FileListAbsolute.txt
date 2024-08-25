@@ -1,0 +1,15 @@
+/Users/tfreeman/CsharpProjects/ProjectArray/bin/Debug/net8.0/ProjectArray
+/Users/tfreeman/CsharpProjects/ProjectArray/bin/Debug/net8.0/ProjectArray.deps.json
+/Users/tfreeman/CsharpProjects/ProjectArray/bin/Debug/net8.0/ProjectArray.runtimeconfig.json
+/Users/tfreeman/CsharpProjects/ProjectArray/bin/Debug/net8.0/ProjectArray.dll
+/Users/tfreeman/CsharpProjects/ProjectArray/bin/Debug/net8.0/ProjectArray.pdb
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.AssemblyInfoInputs.cache
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.AssemblyInfo.cs
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.csproj.CoreCompileInputs.cache
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.sourcelink.json
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.dll
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/refint/ProjectArray.dll
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.pdb
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ProjectArray.genruntimeconfig.cache
+/Users/tfreeman/CsharpProjects/ProjectArray/obj/Debug/net8.0/ref/ProjectArray.dll

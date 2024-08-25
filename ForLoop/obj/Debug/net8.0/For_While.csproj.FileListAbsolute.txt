@@ -1,0 +1,14 @@
+/Volumes/T7/Coding Projects/CSharp/For_While/bin/Debug/net8.0/For_While
+/Volumes/T7/Coding Projects/CSharp/For_While/bin/Debug/net8.0/For_While.deps.json
+/Volumes/T7/Coding Projects/CSharp/For_While/bin/Debug/net8.0/For_While.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/For_While/bin/Debug/net8.0/For_While.dll
+/Volumes/T7/Coding Projects/CSharp/For_While/bin/Debug/net8.0/For_While.pdb
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.dll
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/refint/For_While.dll
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.pdb
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/For_While.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/For_While/obj/Debug/net8.0/ref/For_While.dll

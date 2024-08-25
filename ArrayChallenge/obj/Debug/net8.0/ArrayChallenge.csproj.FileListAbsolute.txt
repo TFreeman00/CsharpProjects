@@ -1,0 +1,15 @@
+/Users/tfreeman/CsharpProjects/ArrayChallenge/bin/Debug/net8.0/ArrayChallenge
+/Users/tfreeman/CsharpProjects/ArrayChallenge/bin/Debug/net8.0/ArrayChallenge.deps.json
+/Users/tfreeman/CsharpProjects/ArrayChallenge/bin/Debug/net8.0/ArrayChallenge.runtimeconfig.json
+/Users/tfreeman/CsharpProjects/ArrayChallenge/bin/Debug/net8.0/ArrayChallenge.dll
+/Users/tfreeman/CsharpProjects/ArrayChallenge/bin/Debug/net8.0/ArrayChallenge.pdb
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.AssemblyInfoInputs.cache
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.AssemblyInfo.cs
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.csproj.CoreCompileInputs.cache
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.sourcelink.json
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.dll
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/refint/ArrayChallenge.dll
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.pdb
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ArrayChallenge.genruntimeconfig.cache
+/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/Debug/net8.0/ref/ArrayChallenge.dll

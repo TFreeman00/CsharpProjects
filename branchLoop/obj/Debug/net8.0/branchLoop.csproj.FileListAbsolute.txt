@@ -1,0 +1,4 @@
+/Volumes/T7/Coding Projects/CSharp/branchLoop/obj/Debug/net8.0/branchLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/branchLoop/obj/Debug/net8.0/branchLoop.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/branchLoop/obj/Debug/net8.0/branchLoop.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/branchLoop/obj/Debug/net8.0/branchLoop.csproj.CoreCompileInputs.cache

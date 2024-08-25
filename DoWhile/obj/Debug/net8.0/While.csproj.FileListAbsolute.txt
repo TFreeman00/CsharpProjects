@@ -1,0 +1,14 @@
+/Volumes/T7/Coding Projects/CSharp/DoWhile/bin/Debug/net8.0/While
+/Volumes/T7/Coding Projects/CSharp/DoWhile/bin/Debug/net8.0/While.deps.json
+/Volumes/T7/Coding Projects/CSharp/DoWhile/bin/Debug/net8.0/While.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/DoWhile/bin/Debug/net8.0/While.dll
+/Volumes/T7/Coding Projects/CSharp/DoWhile/bin/Debug/net8.0/While.pdb
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.dll
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/refint/While.dll
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.pdb
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/While.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/Debug/net8.0/ref/While.dll

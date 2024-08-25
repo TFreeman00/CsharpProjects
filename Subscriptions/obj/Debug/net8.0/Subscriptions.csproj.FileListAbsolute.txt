@@ -1,0 +1,15 @@
+/Users/tfreeman/CsharpProjects/Subscriptions/bin/Debug/net8.0/Subscriptions
+/Users/tfreeman/CsharpProjects/Subscriptions/bin/Debug/net8.0/Subscriptions.deps.json
+/Users/tfreeman/CsharpProjects/Subscriptions/bin/Debug/net8.0/Subscriptions.runtimeconfig.json
+/Users/tfreeman/CsharpProjects/Subscriptions/bin/Debug/net8.0/Subscriptions.dll
+/Users/tfreeman/CsharpProjects/Subscriptions/bin/Debug/net8.0/Subscriptions.pdb
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.AssemblyInfoInputs.cache
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.AssemblyInfo.cs
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.csproj.CoreCompileInputs.cache
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.sourcelink.json
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.dll
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/refint/Subscriptions.dll
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.pdb
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/Subscriptions.genruntimeconfig.cache
+/Users/tfreeman/CsharpProjects/Subscriptions/obj/Debug/net8.0/ref/Subscriptions.dll

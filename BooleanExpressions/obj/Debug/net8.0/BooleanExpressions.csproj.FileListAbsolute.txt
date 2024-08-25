@@ -1,0 +1,15 @@
+/Users/tfreeman/CsharpProjects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions
+/Users/tfreeman/CsharpProjects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.deps.json
+/Users/tfreeman/CsharpProjects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.runtimeconfig.json
+/Users/tfreeman/CsharpProjects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.dll
+/Users/tfreeman/CsharpProjects/BooleanExpressions/bin/Debug/net8.0/BooleanExpressions.pdb
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.AssemblyInfoInputs.cache
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.AssemblyInfo.cs
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.csproj.CoreCompileInputs.cache
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.sourcelink.json
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.dll
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/refint/BooleanExpressions.dll
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.pdb
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/BooleanExpressions.genruntimeconfig.cache
+/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/Debug/net8.0/ref/BooleanExpressions.dll

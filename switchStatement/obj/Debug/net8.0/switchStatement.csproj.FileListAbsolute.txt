@@ -1,0 +1,15 @@
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.AssemblyInfoInputs.cache
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.AssemblyInfo.cs
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.csproj.CoreCompileInputs.cache
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.sourcelink.json
+/Users/tfreeman/CsharpProjects/switchStatement/bin/Debug/net8.0/switchStatement
+/Users/tfreeman/CsharpProjects/switchStatement/bin/Debug/net8.0/switchStatement.deps.json
+/Users/tfreeman/CsharpProjects/switchStatement/bin/Debug/net8.0/switchStatement.runtimeconfig.json
+/Users/tfreeman/CsharpProjects/switchStatement/bin/Debug/net8.0/switchStatement.dll
+/Users/tfreeman/CsharpProjects/switchStatement/bin/Debug/net8.0/switchStatement.pdb
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.dll
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/refint/switchStatement.dll
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.pdb
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/switchStatement.genruntimeconfig.cache
+/Users/tfreeman/CsharpProjects/switchStatement/obj/Debug/net8.0/ref/switchStatement.dll
