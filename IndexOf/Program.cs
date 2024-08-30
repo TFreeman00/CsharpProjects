@@ -1,4 +1,7 @@
-﻿// Get the string to parse
+﻿
+
+//////////////////////////////// INDEXOF //////////////////////////////////
+// Get the string to parse
 string message = "Find what is (inside the parentheses)";
 
 // Find the position of the opening parenthesis in the message
@@ -42,9 +45,9 @@ string result = message.Substring(openingPosition + openSpan.Length, length);
 // Print the result to the console
 Console.WriteLine(result);
 
-///////////////////////////////////////////////////////////////////////
+////////////////////////////// END SECTION ///////////////////////////////////////
 
-// IndexOf() and LastIndexOf
+////////////////////// INDEXOF() and LASTINDEXOF() ////////////////////////////////
 // LastIndexOf() is used to find the position of the last occurrence of a substring within a string.
 // In this case, we want to find the last occurrence of an opening parenthesis.
 string message = "(What if) I am (only interested) in the last (set of parentheses)?";
@@ -102,9 +105,9 @@ while (true)
     // processed.
     message = message.Substring(closingPosition + 1);
 }
-/////////////////////////////////////////////////////////////////////////////////
+////////////////////////////// END SECTION //////////////////////////////////////
 
-// Work with different types of symbol sets
+//////////////////////// WORK WITH DIFFERENT SYMBOLS ///////////////////////////
 
 
 string message = "(What if) I have [different symbols] but every {open symbol} needs a [matching closing symbol]?";
@@ -157,3 +160,6 @@ while (true)
     int length = closingPosition - openingPosition;
     Console.WriteLine(message.Substring(openingPosition, length));
 }
+
+
+//////////////////////////////// END SECTION /////////////////////////////////////

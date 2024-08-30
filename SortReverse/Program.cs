@@ -14,15 +14,22 @@ foreach (var pallet in pallets)
     Console.WriteLine($"-- {pallet}");
 }
 
-// create a separator line to visually distinguish between the sorted and
-// reversed array contents
+// Create a separator line to visually distinguish between the sorted
+// and reversed array contents. This is just a visual aid to help
+// us understand the output of our program.
 Console.WriteLine("");
 Console.WriteLine("Reversed...");
 
-// reverse the array of strings
+// Reverse the array of strings. This is a destructive operation, meaning
+// that it changes the array in place. It does not return a new array, but
+// rather modifies the original array. We can see the effects of this
+// by looping through the array after the Array.Reverse() call.
 Array.Reverse(pallets);
 
-// loop through the array and display each string
+// Loop through the array and display each string. We're using a foreach
+// loop here to iterate over the elements of the array. The variable
+// "pallet" is a temporary variable that is assigned the value of each
+// element of the array in turn.
 foreach (var pallet in pallets)
 {
     Console.WriteLine($"-- {pallet}");

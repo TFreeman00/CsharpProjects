@@ -6,37 +6,43 @@ If the sum of the three dice rolls, plus any point bonuses, is 15 or greater, yo
 */
 
 
+// Roll three dice and calculate the score
 Random dice = new Random();
+int roll1 = dice.Next(1, 7); // roll a dice between 1 and 6 inclusive
+int roll2 = dice.Next(1, 7); // roll a dice between 1 and 6 inclusive
+int roll3 = dice.Next(1, 7); // roll a dice between 1 and 6 inclusive
 
-int roll1 = dice.Next(1,7);
-int roll2 = dice.Next(1,7);
-int roll3 = dice.Next(1,7);
+int score = roll1 + roll2 + roll3; // calculate the score
 
-int score = roll1 + roll2 + roll3;
-
+// print the dice rolls and total score
 Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {score}");
 
+// check if two or three dice have the same value
 if (roll1 == roll2 || roll2 == roll3 || roll1 == roll3)
 {
+    // check if all three dice have the same value
     if (roll1 == roll2 && roll2 == roll3)
     {
-        
-    Console.WriteLine("You rolled triples! +6 points!");
-    score += 6;
+        // if yes, add 6 points as a bonus
+        Console.WriteLine("You rolled triples! +6 points!");
+        score += 6;
     }
     else
     {
-  Console.WriteLine("You rolled doubles! +2 points!");
-    score += 2;
+        // if no, add 2 points as a bonus
+        Console.WriteLine("You rolled doubles! +2 points!");
+        score += 2;
     }
+    // print the total score including the bonus
     Console.WriteLine($"Your total includes the bonus: {score}");
 }
 
+// check the total score and announce the winner
 if (score >= 16)
 {
     Console.WriteLine("You win a playstation 5!");
 }
- else if (score >= 10)
+else if (score >= 10)
 {
     Console.WriteLine("You win an Xbox Series X!");
 }
