@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/bin/Debug/net8.0/IndexOf
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/bin/Debug/net8.0/IndexOf.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/bin/Debug/net8.0/IndexOf.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/bin/Debug/net8.0/IndexOf.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/bin/Debug/net8.0/IndexOf.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/refint/IndexOf.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/IndexOf.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/Debug/net8.0/ref/IndexOf.dll

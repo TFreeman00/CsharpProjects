@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/bin/Debug/net8.0/FormChallenge
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/bin/Debug/net8.0/FormChallenge.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/bin/Debug/net8.0/FormChallenge.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/bin/Debug/net8.0/FormChallenge.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/bin/Debug/net8.0/FormChallenge.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/refint/FormChallenge.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/FormChallenge.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/Debug/net8.0/ref/FormChallenge.dll

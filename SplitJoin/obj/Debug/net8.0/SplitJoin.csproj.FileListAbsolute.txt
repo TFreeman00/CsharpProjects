@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/bin/Debug/net8.0/SplitJoin
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/bin/Debug/net8.0/SplitJoin.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/bin/Debug/net8.0/SplitJoin.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/bin/Debug/net8.0/SplitJoin.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/bin/Debug/net8.0/SplitJoin.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/refint/SplitJoin.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/SplitJoin.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/Debug/net8.0/ref/SplitJoin.dll
