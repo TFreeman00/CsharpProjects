@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/bin/Debug/net8.0/Method
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/bin/Debug/net8.0/Method.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/bin/Debug/net8.0/Method.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/bin/Debug/net8.0/Method.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/bin/Debug/net8.0/Method.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/refint/Method.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/Method.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Method/obj/Debug/net8.0/ref/Method.dll

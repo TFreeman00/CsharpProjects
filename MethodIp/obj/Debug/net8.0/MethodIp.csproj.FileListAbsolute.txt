@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/bin/Debug/net8.0/MethodIp
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/bin/Debug/net8.0/MethodIp.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/bin/Debug/net8.0/MethodIp.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/bin/Debug/net8.0/MethodIp.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/bin/Debug/net8.0/MethodIp.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/refint/MethodIp.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/MethodIp.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/Debug/net8.0/ref/MethodIp.dll
