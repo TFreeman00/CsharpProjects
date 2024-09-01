@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/bin/Debug/net8.0/MethodParameters
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/bin/Debug/net8.0/MethodParameters.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/bin/Debug/net8.0/MethodParameters.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/bin/Debug/net8.0/MethodParameters.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/bin/Debug/net8.0/MethodParameters.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/refint/MethodParameters.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/MethodParameters.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodParameters/obj/Debug/net8.0/ref/MethodParameters.dll
