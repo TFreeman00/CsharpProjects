@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/bin/Debug/net8.0/ReturnTypes
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/bin/Debug/net8.0/ReturnTypes.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/bin/Debug/net8.0/ReturnTypes.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/bin/Debug/net8.0/ReturnTypes.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/bin/Debug/net8.0/ReturnTypes.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/refint/ReturnTypes.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ReturnTypes.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/Debug/net8.0/ref/ReturnTypes.dll
