@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/bin/Debug/net8.0/MiniGame
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/bin/Debug/net8.0/MiniGame.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/bin/Debug/net8.0/MiniGame.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/bin/Debug/net8.0/MiniGame.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/bin/Debug/net8.0/MiniGame.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/refint/MiniGame.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/MiniGame.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/MiniGame/obj/Debug/net8.0/ref/MiniGame.dll

@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/bin/Debug/net8.0/PettingZoo
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/bin/Debug/net8.0/PettingZoo.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/bin/Debug/net8.0/PettingZoo.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/bin/Debug/net8.0/PettingZoo.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/bin/Debug/net8.0/PettingZoo.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/refint/PettingZoo.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/PettingZoo.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/PettingZoo/obj/Debug/net8.0/ref/PettingZoo.dll
