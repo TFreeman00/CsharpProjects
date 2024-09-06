@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/SplitJoin.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SplitJoin/SplitJoin.csproj",
       "projectName": "SplitJoin",
-      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/SplitJoin.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SplitJoin/SplitJoin.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SplitJoin/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SplitJoin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

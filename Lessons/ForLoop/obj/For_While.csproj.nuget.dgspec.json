@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/For_While/For_While.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ForLoop/For_While.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/For_While/For_While.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ForLoop/For_While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/For_While/For_While.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ForLoop/For_While.csproj",
         "projectName": "For_While",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/For_While/For_While.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ForLoop/For_While.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/For_While/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ForLoop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

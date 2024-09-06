@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ERRChallenge/ERRChallenge.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/ERR/ERRChallenge.csproj",
       "projectName": "ERRChallenge",
-      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ERRChallenge/ERRChallenge.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/ERR/ERRChallenge.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ERRChallenge/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/ERR/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

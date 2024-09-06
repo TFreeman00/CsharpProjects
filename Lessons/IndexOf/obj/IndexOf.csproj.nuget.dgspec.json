@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/IndexOf.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/IndexOf/IndexOf.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/IndexOf.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/IndexOf/IndexOf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/IndexOf.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/IndexOf/IndexOf.csproj",
         "projectName": "IndexOf",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/IndexOf.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/IndexOf/IndexOf.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/IndexOf/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/IndexOf/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

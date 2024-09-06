@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/ReturnTypes.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ReturnTypes/ReturnTypes.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/ReturnTypes.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ReturnTypes/ReturnTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/ReturnTypes.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ReturnTypes/ReturnTypes.csproj",
         "projectName": "ReturnTypes",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/ReturnTypes.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ReturnTypes/ReturnTypes.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReturnTypes/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/ReturnTypes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

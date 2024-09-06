@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/MethodIp.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MethodIp/MethodIp.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/MethodIp.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MethodIp/MethodIp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/MethodIp.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MethodIp/MethodIp.csproj",
         "projectName": "MethodIp",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/MethodIp.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MethodIp/MethodIp.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MethodIp/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MethodIp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/FormChallenge.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Form/FormChallenge.csproj",
       "projectName": "FormChallenge",
-      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/FormChallenge.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Form/FormChallenge.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/FormChallenge/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Form/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

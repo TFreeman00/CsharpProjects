@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tfreeman/CsharpProjects/ProjectArray/ProjectArray.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Array/ProjectArray.csproj": {}
   },
   "projects": {
-    "/Users/tfreeman/CsharpProjects/ProjectArray/ProjectArray.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Array/ProjectArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tfreeman/CsharpProjects/ProjectArray/ProjectArray.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Array/ProjectArray.csproj",
         "projectName": "ProjectArray",
-        "projectPath": "/Users/tfreeman/CsharpProjects/ProjectArray/ProjectArray.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Array/ProjectArray.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Users/tfreeman/CsharpProjects/ProjectArray/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

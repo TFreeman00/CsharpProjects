@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/DoWhile/While.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DoWhile/While.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/DoWhile/While.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DoWhile/While.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/DoWhile/While.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DoWhile/While.csproj",
         "projectName": "While",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/DoWhile/While.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DoWhile/While.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/DoWhile/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DoWhile/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tfreeman/CsharpProjects/ArrayChallenge/ArrayChallenge.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Array/ArrayChallenge.csproj": {}
   },
   "projects": {
-    "/Users/tfreeman/CsharpProjects/ArrayChallenge/ArrayChallenge.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Array/ArrayChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tfreeman/CsharpProjects/ArrayChallenge/ArrayChallenge.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Array/ArrayChallenge.csproj",
         "projectName": "ArrayChallenge",
-        "projectPath": "/Users/tfreeman/CsharpProjects/ArrayChallenge/ArrayChallenge.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Array/ArrayChallenge.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Users/tfreeman/CsharpProjects/ArrayChallenge/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Array/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjectArray
-build_property.ProjectDir = /Users/tfreeman/CsharpProjects/ProjectArray/
+build_property.ProjectDir = /Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Array/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

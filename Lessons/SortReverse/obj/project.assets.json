@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SortReverse/SortReverse.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SortReverse/SortReverse.csproj",
       "projectName": "SortReverse",
-      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SortReverse/SortReverse.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SortReverse/SortReverse.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/SortReverse/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SortReverse/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

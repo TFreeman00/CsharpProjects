@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tfreeman/CsharpProjects/BooleanExpressions/BooleanExpressions.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/BooleanExpressions/BooleanExpressions.csproj",
       "projectName": "BooleanExpressions",
-      "projectPath": "/Users/tfreeman/CsharpProjects/BooleanExpressions/BooleanExpressions.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/BooleanExpressions/BooleanExpressions.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Users/tfreeman/CsharpProjects/BooleanExpressions/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/BooleanExpressions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

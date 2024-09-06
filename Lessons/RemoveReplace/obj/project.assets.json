@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/RemoveReplace/RemoveReplace.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/RemoveReplace/RemoveReplace.csproj",
       "projectName": "RemoveReplace",
-      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/RemoveReplace/RemoveReplace.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/RemoveReplace/RemoveReplace.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/RemoveReplace/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/RemoveReplace/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/EmailAddressChallenge/EmailAddressChallenge.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/EmailAddress/EmailAddressChallenge.csproj",
       "projectName": "EmailAddressChallenge",
-      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/EmailAddressChallenge/EmailAddressChallenge.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/EmailAddress/EmailAddressChallenge.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/EmailAddressChallenge/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/EmailAddress/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

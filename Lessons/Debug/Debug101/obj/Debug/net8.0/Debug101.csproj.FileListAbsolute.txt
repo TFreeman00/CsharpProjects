@@ -1,0 +1,15 @@
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/bin/Debug/net8.0/Debug101
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/bin/Debug/net8.0/Debug101.deps.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/bin/Debug/net8.0/Debug101.runtimeconfig.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/bin/Debug/net8.0/Debug101.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/bin/Debug/net8.0/Debug101.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.AssemblyInfoInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.AssemblyInfo.cs
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.csproj.CoreCompileInputs.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.sourcelink.json
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/refint/Debug101.dll
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.pdb
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/Debug101.genruntimeconfig.cache
+/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/Debug/Debug101/obj/Debug/net8.0/ref/Debug101.dll

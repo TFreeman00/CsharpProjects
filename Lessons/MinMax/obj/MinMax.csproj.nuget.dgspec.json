@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MinMax/MinMax.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MinMax/MinMax.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MinMax/MinMax.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MinMax/MinMax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MinMax/MinMax.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MinMax/MinMax.csproj",
         "projectName": "MinMax",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MinMax/MinMax.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MinMax/MinMax.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/MinMax/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/MinMax/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

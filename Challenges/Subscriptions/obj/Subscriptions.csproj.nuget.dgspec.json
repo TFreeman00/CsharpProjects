@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tfreeman/CsharpProjects/Subscriptions/Subscriptions.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Subscriptions/Subscriptions.csproj": {}
   },
   "projects": {
-    "/Users/tfreeman/CsharpProjects/Subscriptions/Subscriptions.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Subscriptions/Subscriptions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tfreeman/CsharpProjects/Subscriptions/Subscriptions.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Subscriptions/Subscriptions.csproj",
         "projectName": "Subscriptions",
-        "projectPath": "/Users/tfreeman/CsharpProjects/Subscriptions/Subscriptions.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Subscriptions/Subscriptions.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Users/tfreeman/CsharpProjects/Subscriptions/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Challenges/Subscriptions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

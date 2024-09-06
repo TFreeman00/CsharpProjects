@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReferenceTypes/ReferenceTypes.csproj": {}
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DataTypesExp/ReferenceTypes.csproj": {}
   },
   "projects": {
-    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReferenceTypes/ReferenceTypes.csproj": {
+    "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DataTypesExp/ReferenceTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReferenceTypes/ReferenceTypes.csproj",
+        "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DataTypesExp/ReferenceTypes.csproj",
         "projectName": "ReferenceTypes",
-        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReferenceTypes/ReferenceTypes.csproj",
+        "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DataTypesExp/ReferenceTypes.csproj",
         "packagesPath": "/Users/tfreeman/.nuget/packages/",
-        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/ReferenceTypes/obj/",
+        "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/DataTypesExp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/tfreeman/.nuget/NuGet/NuGet.Config"

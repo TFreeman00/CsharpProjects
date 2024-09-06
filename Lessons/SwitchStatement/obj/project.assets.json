@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tfreeman/CsharpProjects/switchStatement/switchStatement.csproj",
+      "projectUniqueName": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SwitchStatement/switchStatement.csproj",
       "projectName": "switchStatement",
-      "projectPath": "/Users/tfreeman/CsharpProjects/switchStatement/switchStatement.csproj",
+      "projectPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SwitchStatement/switchStatement.csproj",
       "packagesPath": "/Users/tfreeman/.nuget/packages/",
-      "outputPath": "/Users/tfreeman/CsharpProjects/switchStatement/obj/",
+      "outputPath": "/Volumes/T7/Coding Projects/CSharp/CsharpProjects/Lessons/SwitchStatement/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tfreeman/.nuget/NuGet/NuGet.Config"
